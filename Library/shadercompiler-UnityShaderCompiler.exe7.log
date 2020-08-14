@@ -1,50 +1,8 @@
 Base path: D:/Self/Software/Unity/Unity 2018.4.4/Editor/Data
 Cmd: initializeCompiler
-Cmd: compileComputeKernel
-  api=4 insize=14379 outsize=40293 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=14379 outsize=31093 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=14379 outsize=31865 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=14379 outsize=31041 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=14379 outsize=21377 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=14379 outsize=41761 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=14379 outsize=32569 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=14379 outsize=44137 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=26814 outsize=16285 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=2059 outsize=1517 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=1176 outsize=781 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=2780 outsize=47805 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=4845 outsize=9129 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=18299 outsize=10377 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=19063 outsize=15261 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=1806 outsize=553 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=692 outsize=573 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=34758 outsize=33693 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=16866 outsize=5809 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=16866 outsize=7485 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=16866 outsize=9757 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=16866 outsize=8501 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=16866 outsize=10245 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=903 outsize=3486 kw=UNITY_PASS_META pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=10992 outsize=3129 kw=UNITY_PASS_META pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_MOBILE UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING ok=1
 
 Quitting shader compiler process
